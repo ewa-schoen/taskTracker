@@ -1,6 +1,6 @@
 {
   "name": "Task Tracker",
-  "short_name": "Task Tracker",
+  "short_name": "taskTracker",
   "description": "Daily task list with priorities. Unfinished tasks move to the next day. / Codzienna lista zadań z priorytetami.",
   "id": "./",
   "start_url": "./",
