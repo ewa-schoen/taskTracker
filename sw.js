@@ -1,8 +1,8 @@
-/* Daily To-Do service worker: makes the app work fully offline.
+/* Task Tracker service worker: makes the app work fully offline.
    If you change any app file, bump CACHE so phones pick up the new version.
    The prefix keeps this app's cache separate from other apps on the same github.io address. */
 const PREFIX = 'daily-todo-';
-const CACHE = PREFIX + 'v1';
+const CACHE = PREFIX + 'v2';
 const ASSETS = [
   './',
   './index.html',

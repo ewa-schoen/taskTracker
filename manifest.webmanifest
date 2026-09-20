@@ -1,7 +1,7 @@
 {
-  "name": "Codzienne zadania",
-  "short_name": "Zadania",
-  "description": "Codzienna lista zadań z priorytetami. Niezrobione zadania same przechodzą na następny dzień.",
+  "name": "Task Tracker",
+  "short_name": "Task Tracker",
+  "description": "Daily task list with priorities. Unfinished tasks move to the next day. / Codzienna lista zadań z priorytetami.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
