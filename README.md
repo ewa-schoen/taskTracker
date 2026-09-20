@@ -1,4 +1,4 @@
-# Daily To-Do / Codzienne zadania
+# Daily To-Do / taskTracker
 
 [English](#english) | [Polski](#polski)
 
